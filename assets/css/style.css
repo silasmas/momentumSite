@@ -172,6 +172,9 @@ h6 {
 .white-bg {
   background: #fff;
 }
+.about .title::after{
+	display:none!important;
+}
 .primary-color2 {
   color: #e94d65 !important;
 }
